@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int tests_run = 0;
+int tests_run = 8;
 
 int maxSum(int a[], int size);
 
